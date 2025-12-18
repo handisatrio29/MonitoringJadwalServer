@@ -17,8 +17,6 @@ Menambahkan jadwal monitoring (Create)
 Menghapus jadwal monitoring (Delete)
 Validasi input data
 Penyimpanan data otomatis ke file CSV
-📂 Struktur Project
-MonitoringJadwalServer ├── data │ └── jadwal_monitoring.csv ├── Source Packages │ └── monitoringjadwalserver │ ├── Jadwal.java │ ├── CSVHelper.java │ ├── MainFrame.java │ └── Main.java
 
 ▶️ Cara Menjalankan
 Buka project di NetBeans
@@ -27,8 +25,6 @@ Jalankan Main.java
 📽️ Video Demo
 🔗 https://youtu.be/S5fBYKb9dTc
 
-📸 Screenshot
-(Tambahkan screenshot aplikasi)
 
 🚀 Pengembangan Lanjutan
 Aplikasi ini dapat dikembangkan lebih lanjut dengan:
